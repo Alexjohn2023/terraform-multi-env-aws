@@ -19,4 +19,4 @@ One codebase deploying three isolated environments on AWS using Terraform Worksp
 
 ## Author
 Alexander Njoku | Cloud and DevOps Engineer
-GitHub: @alex2020global | Raleigh, NC
+GitHub: https://github.com/Alexjohn2023/terraform-multi-env-aws | Raleigh, NC
